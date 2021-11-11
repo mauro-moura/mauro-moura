@@ -26,6 +26,10 @@
 <br />
 <br />
 
+### Últimas postagens que fiz
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://mauro-moura.github.io
 [twitter]: https://twitter.com/mauro_m0ura
 [instagram]: https://www.instagram.com/maurosergiostm
