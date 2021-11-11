@@ -30,6 +30,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align="left" alt="Github Stats do Mauro" src="https://github-readme-stats.vercel.app/api?username=mauro-moura&theme=dracula&count_private=true" />
+
 [website]: https://mauro-moura.github.io
 [twitter]: https://twitter.com/mauro_m0ura
 [instagram]: https://www.instagram.com/maurosergiostm
